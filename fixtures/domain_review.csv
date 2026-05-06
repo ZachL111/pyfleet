@@ -1,0 +1,6 @@
+name,focus,signal,slack,drag,confidence,score,lane
+baseline,quorum health,61,29,19,89,183,ship
+stress,lease drift,66,27,21,56,152,ship
+edge,replica lag,64,40,23,85,184,ship
+recovery,membership churn,87,36,29,67,190,ship
+stale,quorum health,77,42,9,88,257,ship
